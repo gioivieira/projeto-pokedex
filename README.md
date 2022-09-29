@@ -1,7 +1,7 @@
 <h1 align="center">POKÉDEX</h1>
 
 ##  ℹ️Sobre
-Este projeto foi desenvolvido como parte da fixação do conteúdo sobre ReactJS aprendido no bootcamp de Desenvolvimento Web Full Stack da Labenu. Foi realizado utilizando a API pública PokéAPI. O projeto consiste em uma aplicação aonde o usuário pode visualizar todos os tipos de Pokémons, e incluí-los em sua Pokédex. Na página inicial, é possível visualizar uma lista de Pokémons, selecioná-los para ver seus detalhes (abrir página de detalhes) e adicioná-los em sua Pokédex. Já na página Pokédex, também é possível clicar para ver os detalhes do Pokémon, removê-lo da Pokédex e iniciar uma batalha entre os Pokémons que estão na Pokédex. O site possui uma versão adaptada para Mobile, para melhor visualização em telas verticais e menores.
+Este projeto foi desenvolvido como parte da fixação do conteúdo sobre React.js aprendido no bootcamp de Desenvolvimento Web Full Stack da Labenu. Foi realizado utilizando a API pública PokéAPI. O projeto consiste em uma aplicação aonde o usuário pode visualizar todos os tipos de Pokémons, e incluí-los em sua Pokédex. Na página inicial, é possível visualizar uma lista de Pokémons, selecioná-los para ver seus detalhes (abrir página de detalhes) e adicioná-los em sua Pokédex. Já na página Pokédex, também é possível clicar para ver os detalhes do Pokémon, removê-lo da Pokédex e iniciar uma batalha entre os Pokémons que estão na Pokédex. O site possui uma versão adaptada para Mobile, para melhor visualização em telas verticais e menores.
 
 ##  👩‍💻Desenvolvedoras
 - <a href="https://github.com/francinehahn" target="_blank"><p>Francine Hahn</p></a>
@@ -9,7 +9,7 @@ Este projeto foi desenvolvido como parte da fixação do conteúdo sobre ReactJS
 - <a href="https://github.com/mariafmf" target="_blank"><p>Maria Fernandez de Moura Ferro</p></a>
 
 ## 🔗Link para acessar
-- https://naive-mother.surge.sh/
+https://naive-mother.surge.sh/
 
 ## ☑️Requisitos de funcionalidade
 - Requisição de todos os pokémons disponíveis na API;
@@ -21,10 +21,10 @@ Este projeto foi desenvolvido como parte da fixação do conteúdo sobre ReactJS
 
 ## 🛰Rodando o projeto
 
-* git clone https://github.com/gioivieira/projeto-pokedex.git 
-* cd projeto-pokedex 
-* npm install
-* npm run dev 
+1. git clone https://github.com/gioivieira/projeto-pokedex.git 
+2. cd projeto-pokedex 
+3. npm install
+4. npm run dev 
 
 ## 💻Tecnologias utilizadas
 - React.js
