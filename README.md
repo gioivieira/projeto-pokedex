@@ -1,4 +1,4 @@
-<h1 align="center">POKÉDEX</h1>
+<h1 align="center">Pokédex</h1>
 
 ##  ℹ️Sobre
 Este projeto foi desenvolvido como parte da fixação do conteúdo sobre React.js aprendido no bootcamp de Desenvolvimento Web Full Stack da Labenu. Foi realizado utilizando a API pública PokéAPI. O projeto consiste em uma aplicação aonde o usuário pode visualizar todos os tipos de Pokémons, e incluí-los em sua Pokédex. Na página inicial, é possível visualizar uma lista de Pokémons, selecioná-los para ver seus detalhes (abrir página de detalhes) e adicioná-los em sua Pokédex. Já na página Pokédex, também é possível clicar para ver os detalhes do Pokémon, removê-lo da Pokédex e iniciar uma batalha entre os Pokémons que estão na Pokédex. O site possui uma versão adaptada para Mobile, para melhor visualização em telas verticais e menores.
