@@ -44,5 +44,6 @@ https://naive-mother.surge.sh/
 
 ## 📝Sobre a licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto está licenciado nos termos da licença [MIT](./LICENSE).
+
 
