@@ -8,13 +8,13 @@
 - <a href="https://github.com/gioivieira" target="_blank"><p>Giovana Inez Vieira</p></a>
 - <a href="https://github.com/mariafmf" target="_blank"><p>Maria Fernandez de Moura Ferro</p></a>
 
-##  🎯Objetivo do Projeto
+##  🎯Objetivo do projeto
 - Este é um projeto de Front-end, desenvolvido no bootcamp da Labenu, cujo o principal objetivo é colocar em prática os conteúdos aprendidos de React.js.
 
 ## 🔗Link para acessar
 - https://naive-mother.surge.sh/
 
-## ☑️Requisitos de Funcionalidade
+## ☑️Requisitos de funcionalidade
 - Requisição de todos os pokémons disponíveis na API;
 - Botão "adicionar à pokédex" e "ver mais" em cada card de pokémon;
 - Ao adicionar pokémon à pokédex, ele fica salvo no local storage e deixa de ser renderizado na página inicial;
@@ -22,14 +22,14 @@
 - Botão "limpar pokédex": exclui todos os pokémons da pokédex;
 - Botão "iniciar batalha": usuário pode selecionar 2 pokémons para se enfrentar; o pokémon com maior soma das stats vence;
 
-## 🛰Rodando o Projeto
+## 🛰Rodando o projeto
 
 - git clone https://github.com/gioivieira/projeto-pokedex.git 
 - cd projeto-pokedex 
 - npm install
 - npm run dev 
 
-## 💻Tecnologias utilizadas: 
+## 💻Tecnologias utilizadas
 - React.js
 - Styled-Components
 
@@ -45,7 +45,7 @@
 
 ![print4](./src/img/print4.png)
 
-## 📝Sobre a Licença
+## 📝Sobre a licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
